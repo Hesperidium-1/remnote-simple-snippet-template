@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "YOUR_SNIPPET_ID",
-  "name": "YOUR_SNIPPET_NAME",
-  "author": "YOUR_NAME",
+  "id": "Hesperidium_Dark_Theme_Snippet",
+  "name": "Hesperidium_Dark_Theme",
+  "author": "Hesperidium",
   "repoUrl": "",
   "version": {
     "major": 0,
@@ -11,7 +11,7 @@
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "YOUR_SNIPPET_DESCRIPTION",
+  "description": "CustomCSS_dark_theme_RemNote",
   "requestNative": false,
   "requiredScopes": [
     {
