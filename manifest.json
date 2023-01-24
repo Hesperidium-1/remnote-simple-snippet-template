@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "YOUR_SNIPPET_ID",
-  "name": "YOUR_SNIPPET_NAME",
-  "author": "YOUR_NAME",
+  "id": "HesperidiumDarkThemeSnippet",
+  "name": "HesperidiumDarkTheme",
+  "author": "Jessica Shieh",
   "repoUrl": "",
   "version": {
     "major": 0,
@@ -11,7 +11,7 @@
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "YOUR_SNIPPET_DESCRIPTION",
+  "description": "DarkTheme",
   "requestNative": false,
   "requiredScopes": [
     {
